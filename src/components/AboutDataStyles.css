@@ -1,0 +1,15 @@
+.one-box {
+  margin: 4rem 6rem;
+  text-align: start;
+}
+.one-box h1 {
+  padding-bottom: 1rem;
+}
+.one-box p {
+  padding-bottom: 2rem;
+}
+@media screen and (max-width: 850px) {
+  .one-box {
+    margin: 4rem 2rem;
+  }
+}
